@@ -1,1 +1,2 @@
 # web_page
+This project is a simple web page designed and developed using HTML, CSS, and JavaScript. It serves as a beginner-friendly example for those looking to learn web development or enhance their skills. The web page includes and it can be used as a template for creating your own web pages. You can explore the codebase to understand how the page is structured and styled, and the JavaScript code for interactive functionality. Feel free to use this project as a starting point for your own web development projects
